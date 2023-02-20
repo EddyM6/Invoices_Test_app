@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Invoices_test_app</string>
+    <string name="id_formatted">Id: %1s</string>
+    <string name="date_formatted">Date: %1s</string>
+    <string name="name_formatted">Name: %1s</string>
+    <string name="total_details_formatted">Total Details: %1d</string>
+    <string name="quantity_formatted">Quantity: %1d</string>
+    <string name="price_in_cents_formatted">Price in Cents : %1d</string>
+
+    <string name="button_text_go_to_album">Retry</string>
+
+    <!--    Network error Screen-->
+    <string name="network_error_title">Ooops!</string>
+    <string name="network_error_description">It seems there is something wrong with your internet connection.Please connect to the internet and start TRY again.</string>
+    <string name="network_error_try_again_button_text">Try Again</string>
+
+    <!--    Empty List-->
+    <string name="empty_list_title">Empty Data !!</string>
+    <string name="empty_error_description">It seems there is something wrong.Please start TRY again.</string>
+
+
+    <!--    Malformed Data Screen-->
+    <string name="malformed_error_description">Sorry,this place data not loaded.\n Malformed data !!. \n Please start Try again</string>
+
+</resources>

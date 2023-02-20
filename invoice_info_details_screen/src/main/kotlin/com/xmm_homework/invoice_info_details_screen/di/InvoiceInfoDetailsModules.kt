@@ -1,0 +1,6 @@
+package com.xmm_homework.invoice_info_details_screen.di
+
+import com.xmm_homework.invoice_info_details_screen.mappers.uiMapperModule
+import com.xmm_homework.invoice_info_details_screen.viewmodel.di.detailsViewModelModule
+
+val invoiceInfoDetailsScreenModules = detailsViewModelModule + uiMapperModule
